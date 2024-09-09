@@ -1,0 +1,20 @@
+    1  ls -ls
+    2  ls -la
+    3  shh-keygen -t ed25519
+    4  ssh-keygen -t ed25519 
+    5  ls -la
+    6  cd. ssh
+    7  cd .ssh
+    8  ls
+    9  cat id_ed25519.pub
+   10  ls
+   11  cd ..
+   12  ls
+   13  cd repogit
+   14  ls
+   15  git clone git@github.com:YesicaHinaja/hinaja_vagrant.git
+   16  ls
+   17  cd hinaja_vagrant
+   18  ls
+   19  history
+   20  history  > hitorial.txt
